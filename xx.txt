@@ -3,3 +3,4 @@ hello world
 new line;
 another line;
 Git has a mutable index called stage
+1234567890
